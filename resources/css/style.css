@@ -1,0 +1,29 @@
+body {
+  background-color: #000;
+  text-align: center;
+  font-family: verdana;
+}
+
+h1 {
+  color: #fff;
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+}
+
+a {
+  color: #7fffd4;
+  font-size: 16px;
+}
+
+p {
+  font-size: 21px;
+  color: #808080;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  color: #fff;
+  font-size: 42px;
+}
